@@ -11,3 +11,4 @@ Pages:
 - https://dataford-research.github.io/internship-guides/follow-up-after-internship-application/
 - https://dataford-research.github.io/internship-guides/where-to-find-internships/
 - https://dataford-research.github.io/internship-guides/how-many-internships-to-apply-to/
+- https://dataford-research.github.io/internship-guides/internship-resume-no-experience/
