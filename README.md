@@ -15,3 +15,4 @@ Pages:
 - https://dataford-research.github.io/internship-guides/internship-cover-letter/
 - https://dataford-research.github.io/internship-guides/internship-interview-prep/
 - https://dataford-research.github.io/internship-guides/how-to-network-for-an-internship/
+- https://dataford-research.github.io/internship-guides/what-to-do-if-you-didnt-get-an-internship/
