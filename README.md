@@ -9,3 +9,4 @@ Pages:
 - https://dataford-research.github.io/internship-guides/when-internship-applications-open/
 - https://dataford-research.github.io/internship-guides/internships-with-visa-sponsorship/
 - https://dataford-research.github.io/internship-guides/follow-up-after-internship-application/
+- https://dataford-research.github.io/internship-guides/where-to-find-internships/
