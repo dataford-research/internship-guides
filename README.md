@@ -18,3 +18,4 @@ Pages:
 - https://dataford-research.github.io/internship-guides/what-to-do-if-you-didnt-get-an-internship/
 - https://dataford-research.github.io/internship-guides/how-to-choose-between-internship-offers/
 - https://dataford-research.github.io/internship-guides/how-to-find-a-remote-internship/
+- https://dataford-research.github.io/internship-guides/how-to-get-an-internship-as-a-freshman/
