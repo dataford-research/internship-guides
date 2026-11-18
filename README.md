@@ -23,3 +23,4 @@ Pages:
 - https://dataford-research.github.io/internship-guides/questions-to-ask-in-an-internship-interview/
 - https://dataford-research.github.io/internship-guides/how-to-get-an-internship-with-a-low-gpa/
 - https://dataford-research.github.io/internship-guides/how-to-use-a-career-fair-to-get-an-internship/
+- https://dataford-research.github.io/internship-guides/how-to-set-up-your-linkedin-profile-for-internships/
