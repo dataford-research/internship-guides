@@ -27,3 +27,4 @@ Pages:
 - https://dataford-research.github.io/internship-guides/how-to-find-paid-internships/
 - https://dataford-research.github.io/internship-guides/how-to-find-housing-for-a-summer-internship/
 - https://dataford-research.github.io/internship-guides/how-to-write-a-cold-email-for-an-internship/
+- https://dataford-research.github.io/internship-guides/how-to-get-a-software-engineering-internship/
