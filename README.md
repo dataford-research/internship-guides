@@ -19,3 +19,4 @@ Pages:
 - https://dataford-research.github.io/internship-guides/how-to-choose-between-internship-offers/
 - https://dataford-research.github.io/internship-guides/how-to-find-a-remote-internship/
 - https://dataford-research.github.io/internship-guides/how-to-get-an-internship-as-a-freshman/
+- https://dataford-research.github.io/internship-guides/how-to-turn-your-internship-into-a-full-time-offer/
