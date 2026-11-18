@@ -21,3 +21,4 @@ Pages:
 - https://dataford-research.github.io/internship-guides/how-to-get-an-internship-as-a-freshman/
 - https://dataford-research.github.io/internship-guides/how-to-turn-your-internship-into-a-full-time-offer/
 - https://dataford-research.github.io/internship-guides/questions-to-ask-in-an-internship-interview/
+- https://dataford-research.github.io/internship-guides/how-to-get-an-internship-with-a-low-gpa/
