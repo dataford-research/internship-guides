@@ -31,3 +31,4 @@ Pages:
 - https://dataford-research.github.io/internship-guides/how-to-get-a-data-analyst-internship/
 - https://dataford-research.github.io/internship-guides/how-to-get-a-marketing-internship/
 - https://dataford-research.github.io/internship-guides/how-to-get-a-finance-internship/
+- https://dataford-research.github.io/internship-guides/how-to-get-an-engineering-internship/
