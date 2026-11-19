@@ -29,3 +29,4 @@ Pages:
 - https://dataford-research.github.io/internship-guides/how-to-write-a-cold-email-for-an-internship/
 - https://dataford-research.github.io/internship-guides/how-to-get-a-software-engineering-internship/
 - https://dataford-research.github.io/internship-guides/how-to-get-a-data-analyst-internship/
+- https://dataford-research.github.io/internship-guides/how-to-get-a-marketing-internship/
