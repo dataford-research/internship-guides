@@ -35,3 +35,4 @@ Pages:
 - https://dataford-research.github.io/internship-guides/how-to-get-a-product-management-internship/
 - https://dataford-research.github.io/internship-guides/how-to-get-a-ux-design-internship/
 - https://dataford-research.github.io/internship-guides/how-to-get-a-cybersecurity-internship/
+- https://dataford-research.github.io/internship-guides/how-to-get-an-accounting-internship/
