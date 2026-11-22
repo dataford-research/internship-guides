@@ -37,3 +37,4 @@ Pages:
 - https://dataford-research.github.io/internship-guides/how-to-get-a-cybersecurity-internship/
 - https://dataford-research.github.io/internship-guides/how-to-get-an-accounting-internship/
 - https://dataford-research.github.io/internship-guides/how-to-get-a-consulting-internship/
+- https://dataford-research.github.io/internship-guides/how-to-get-a-sales-internship/
